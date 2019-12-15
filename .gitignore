@@ -1,0 +1,14 @@
+# build artifacts
+build
+node_modules
+
+# IDE status
+*.emSession
+*.jlink
+
+# ctag
+tags
+
+# temporary test logs
+bluenetics/test/lib/remote-device/tmp
+bluenetics/bluenetics_controller/non-sdk/triac_boost_control/test/triac_boost/t?.log
